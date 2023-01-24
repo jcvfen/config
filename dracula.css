@@ -37,6 +37,25 @@
   --tridactyl-hint-bg: none;
   --tridactyl-hint-outline: none;
 }
+span.TridactylHint {
+    font-size: 14px !important;
+    font-famiy: "Comic Mono" !important;
+}
+
+span.TridactylHintUppercase {
+    font-size: 14px !important;
+    font-famiy: "Comic Mono" !important;
+}
+
+span.TridactylHintA {
+    font-size: 14px !important;
+    font-famiy: "Comic Mono" !important;
+}
+
+div.TridactylHintHost {
+    font-size: 14px !important;
+    font-famiy: "Comic Mono" !important;
+}
 
 #command-line-holder {
   order: 1;
